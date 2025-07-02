@@ -1,10 +1,8 @@
-# Annualized-Federal-Tax-Calc-Template
-Template to calculate annualized federal taxes for 3 pay periods
+# Annualized Federal Tax Calculation Template
 
-Federal payroll taxes can be quite confusing and it should be no surprise that many employees write in asking about this tax on their paychecks. It was discovered that the best way to explain this tax was by presenting the employee with a breakdown.
-
-Tax analysts in the past used the FIT Steps PDF to manually tpye out and present a breakdown to employees upon request. 
-
-Within a week of processing employee requests, I was tired of manually typing out each step from the PDF and created a template to process these requests quicker.
-
-This template is still used today by analysts
+| Aspect                | Description                                                                                                                                                                                                                  |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Project Overview**   | Template designed to calculate annualized federal taxes for 3 pay periods, providing clear tax breakdowns for employees.                                                                                                     |
+| **Problem Addressed**  | Federal payroll taxes often confuse employees, leading to frequent inquiries. Previously, tax analysts manually typed out explanations using the FIT Steps PDF to respond to requests, which was time-consuming and inefficient. |
+| **Solution**           | Developed this template to automate and streamline the explanation process, enabling faster, consistent responses to employee tax questions.                                                                                 |
+| **Impact**             | The template significantly reduced manual effort and remains in use today by tax analysts to handle employee tax inquiries efficiently.                                                                                      |
